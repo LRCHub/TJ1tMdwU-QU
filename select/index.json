@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今を詰めこんで",
+  "base_artist": "カネヨリマサル",
+  "createdAt": "2026-03-06T08:07:52.192314Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今を詰めこんで",
+      "artist": "カネヨリマサル",
+      "has_synced": false,
+      "path": "select/pl_01_今を詰めこんで_カネヨリマサル.txt"
+    }
+  ]
+}
